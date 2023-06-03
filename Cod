@@ -1,0 +1,25 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Sorry!";
+    Text = "Script Not Working!";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Admin Message";
+    Text = "Hey I Desactivated this script to update!";
+    Button1 = "what???";
+    Button2 = "Ok";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Hey!";
+    Text = "Want Discord Link to update?";
+    Button1 = "Yes!";
+    Button2 = "No!";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Hey!";
+    Text = "if you press Yes! discord here!
+https://discord.gg/wynhjfZJ";
+    Button1 = "Thank you!";
+})

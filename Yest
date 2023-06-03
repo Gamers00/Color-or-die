@@ -1,0 +1,11 @@
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Sorry!";
+    Text = "Script Not Working!";
+})
+
+game.StarterGui:SetCore("SendNotification", {
+    Title = "Admin Message";
+    Text = "Hey I Desactivated this script to update!";
+    Button1 = "what???";
+    Button2 = "Ok";
+})
